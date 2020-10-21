@@ -1,2 +1,3 @@
 # Blockchain-Specialization
-https://www.coursera.org/specializations/blockchain#courses
+# udemy course first
+# then coursera again
