@@ -1,3 +1,1 @@
-# Blockchain-Specialization
-# udemy course first
-# then coursera again
+# COMPLETE MERN STACK COURSERA HONG KONG UNIVERSITY
